@@ -1,0 +1,16 @@
+.table-div {
+    display: flex;
+    justify-content: center;
+}
+table {
+    border: 1px solid #000000;
+    background-color: #d3cac9;
+}
+
+th, td {
+    border: 1px solid black;
+    background-color: #f3dbd8;
+    padding: 4px;
+    text-align: center;
+    vertical-align: middle;
+}
